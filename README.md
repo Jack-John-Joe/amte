@@ -1,3 +1,3 @@
 # amte
 coming soon
-get amte'd
+ get amte'd
